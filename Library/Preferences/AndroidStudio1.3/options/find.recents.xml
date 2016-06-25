@@ -1,8 +1,0 @@
-<application>
-  <component name="FindRecents">
-    <findStrings>
-      <find>intent</find>
-      <find>Uri</find>
-    </findStrings>
-  </component>
-</application>
